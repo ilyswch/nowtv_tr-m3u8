@@ -7,6 +7,7 @@ This is a Cloudflare Worker that locates the m3u8 URL in the Source Code of the 
 
 > You can create an account [here](https://dash.cloudflare.com/sign-up).
 
+
 1. Open the [Cloudflare Dashboard](https://dash.cloudflare.com/)
 2. Go to "Workers & Pages"
 3. Click on "Create application"
