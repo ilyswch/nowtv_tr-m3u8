@@ -3,10 +3,8 @@ This is a Cloudflare Worker that locates the m3u8 URL in the Source Code of the 
 
 ## How to use
 
-> **Note:** You need a free Cloudflare account.
-
-> You can create an account [here](https://dash.cloudflare.com/sign-up).
-
+**Note:** You need a free Cloudflare account.
+You can create an account [here](https://dash.cloudflare.com/sign-up).
 
 1. Open the [Cloudflare Dashboard](https://dash.cloudflare.com/)
 2. Go to "Workers & Pages"
@@ -18,5 +16,6 @@ This is a Cloudflare Worker that locates the m3u8 URL in the Source Code of the 
 8. Paste the code from the "worker.js" file in the repo
 9. Click on "Deploy"
 
-> You can now use your Worker with the following link: 
-> https://[myworker].[myusername].workers.dev/live/index.m3u8
+You can now use your Worker with the following link: 
+
+    https://[myworker].[myusername].workers.dev/live/index.m3u8
