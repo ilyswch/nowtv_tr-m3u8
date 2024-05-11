@@ -4,6 +4,7 @@ This is a Cloudflare Worker that locates the m3u8 URL in the Source Code of the 
 ## How to use
 
 > **Note:** You need a free Cloudflare account.
+
 > You can create an account [here](https://dash.cloudflare.com/sign-up).
 
 1. Open the [Cloudflare Dashboard](https://dash.cloudflare.com/)
