@@ -1,4 +1,4 @@
-# nowtv_tr-m3u8
+# nowtv_tr-m3u8-worker
 This is a Cloudflare Worker that locates the m3u8 URL in the Source Code of the "NOW Türkiye" Website and forwards to it.
 
 ## How to use
